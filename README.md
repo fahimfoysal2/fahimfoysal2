@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning: Laravel, Vue, 
 
-📫 How to reach me: <a href="mailto:ffoysal6@fmail.com">:email:</a>
+📫 How to reach me: <a href="mailto:ffoysal6@gmail.com">:email:</a>
