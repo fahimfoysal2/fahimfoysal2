@@ -1,7 +1,5 @@
 ### 👋 Hi there
 
-🔭 I’m currently working on: "My Special Ideas"
-
-🌱 I’m currently learning: Laravel, Vue, 
-
+🔭 I’m currently working on: Mobile Application Development
+ 
 📫 How to reach me: <a href="mailto:ffoysal6@gmail.com">:email:</a>
